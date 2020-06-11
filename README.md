@@ -5,23 +5,37 @@ A repo to detail research, recommended guidelines, and design mocks for [English
 ![](img/current_site.png)
 ##### Current Landing Page
 
+## User Experience Research
+[View 'UX Research' Here](./ux.md)
 
-## [Pain Points](./painpoints.md)
+Details the experiences of a research participant navigating the 'English from A to Z' website.
+
+## Pain Points
+[View 'Pain Points' Here](./painpoints.md)
+
 Identifies "pain points" - or current limitations/difficulties - on the 'English from A to Z' website to inform redesign plans.
 
-## [Competitor Comparison](./competitors.md)
+
+## Competitor Comparison
+[View 'Competitor Comparison' Here](./competitors.md)
+
 Offers a brief review of identified competitors' websites in order to better understand possibilities and common pitfalls of those in the industry.
 
+
 ## User Stories
-As a potential 'English from A to Z' customer I want to...
-*
+[View 'User Stories' Here](./userstories.md)
 
-As a current 'English from A to Z' customer I want to...
-*
+Describe desired website features from the perspective of different user personas.
 
-As a potential 'English from A to Z' employee/teacher...
-*
 
 ## Wireframes
-* [Low fidelity mock-up](./wireframes/low-fi.md) to guide positioning
+* [Low fidelity mock-up](./wireframes/low-fi.md) to guide page positioning
 * [High fidelity mock-up](./wireframes/high-fi.md) to communicate design possibilities
+
+
+## Future Goals
+Future iterations of this design process could include
+1. Marketing Research
+   1. Demographics, lifestyle habits, professional information, hobbies/interests, social media use, shopping preferences, product/services preferences, pricing, etc..)
+2. Buyer Personas
+   1. should rely heavily on collected data and inform business pitches/practices/platforms, recommended 3-5 personas for design
