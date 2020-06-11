@@ -1,31 +1,31 @@
 # English from A to Z Redesign Report
 
-A repo to detail research, recommended guidelines, and design mocks for [English from A to Z](https://www.englishfromatoz.com/) potential redesign.
+A repo to detail research, recommended guidelines, and design mocks for potential redesign of the [English from A to Z](https://www.englishfromatoz.com/) website.
 
 ![](img/current_site.png)
 ##### Current Landing Page
 
 ## User Experience Research
-[View 'UX Research' Here](./ux.md)
-
 Details the experiences of a research participant navigating the 'English from A to Z' website.
 
-## Pain Points
-[View 'Pain Points' Here](./painpoints.md)
+[View 'UX Research' Here](./ux.md)
 
+## Pain Points
 Identifies "pain points" - or current limitations/difficulties - on the 'English from A to Z' website to inform redesign plans.
+
+[View 'Pain Points' Here](./painpoints.md)
 
 
 ## Competitor Comparison
-[View 'Competitor Comparison' Here](./competitors.md)
-
 Offers a brief review of identified competitors' websites in order to better understand possibilities and common pitfalls of those in the industry.
+
+[View 'Competitor Comparison' Here](./competitors.md)
 
 
 ## User Stories
-[View 'User Stories' Here](./userstories.md)
-
 Describe desired website features from the perspective of different user personas.
+
+[View 'User Stories' Here](./userstories.md)
 
 
 ## Wireframes
