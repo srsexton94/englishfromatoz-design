@@ -40,3 +40,8 @@ Future iterations of this design process could include
    1. Demographics, lifestyle habits, professional information, hobbies/interests, social media use, shopping preferences, product/services preferences, pricing, etc..)
 2. Buyer Personas
    1. should rely heavily on collected data and inform business pitches/practices/platforms, recommended 3-5 personas for design
+
+### Technologies Used
+* [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+* [Wireframe.cc](https://wireframe.cc/)
+* [Figma](https://www.figma.com/)
