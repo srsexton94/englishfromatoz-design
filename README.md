@@ -8,29 +8,29 @@ A repo to detail research, recommended guidelines, and design mocks for potentia
 ## User Experience Research
 Details the experiences of a research participant navigating the 'English from A to Z' website.
 
-[View 'UX Research' Here](./ux.md)
+[View 'UX Research' Here](docs/ux.md)
 
 ## Pain Points
 Identifies "pain points" - or current limitations/difficulties - on the 'English from A to Z' website to inform redesign plans.
 
-[View 'Pain Points' Here](./painpoints.md)
+[View 'Pain Points' Here](docs/painpoints.md)
 
 
 ## Competitor Comparison
 Offers a brief review of identified competitors' websites in order to better understand possibilities and common pitfalls of those in the industry.
 
-[View 'Competitor Comparison' Here](./competitors.md)
+[View 'Competitor Comparison' Here](docs/competitors.md)
 
 
 ## User Stories
 Describe desired website features from the perspective of different user personas.
 
-[View 'User Stories' Here](./userstories.md)
+[View 'User Stories' Here](docs/userstories.md)
 
 
 ## Wireframes
-* [Low fidelity mock-up](./wireframes/low-fi.md) to guide page positioning
-* [High fidelity mock-up](./wireframes/high-fi.md) to communicate design possibilities
+* [Low fidelity mock-up](docs/wireframes/low-fi.md) to guide page positioning
+* [High fidelity mock-up](docs/wireframes/high-fi.md) to communicate design possibilities
 
 
 ## Future Goals

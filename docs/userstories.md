@@ -30,7 +30,7 @@ The user stories below outline website features from the perspective of differen
   - cancel any individual upcoming class and receive confirmation
 * interact with any additional learning materials [EPIC]
   - view/link to provided materials
-    - eBooks, Blog content,
+    - eBooks, Blog content, videos
 
 ##### As a potential employee/teacher I want to...
 * view information about the job requirements & benefits [EPIC]
