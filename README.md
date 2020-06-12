@@ -30,8 +30,8 @@ Describe desired website features from the perspective of different user persona
 
 
 ## Wireframes
-* [Low fidelity mock-up](docs/wireframes/low-fi.md) to guide page positioning
-* [High fidelity mock-up](docs/wireframes/high-fi.md) to communicate design possibilities
+* [Low fidelity mock-up](docs/wireframes/lofi.md) to guide page positioning
+* [High fidelity mock-up](docs/wireframes/hifi.md) to communicate design possibilities
 
 
 ## Future Goals
