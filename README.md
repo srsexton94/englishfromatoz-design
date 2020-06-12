@@ -10,16 +10,17 @@ Details the experiences of a research participant navigating the 'English from A
 
 [View 'UX Research' Here](docs/ux.md)
 
-## Pain Points
-Identifies "pain points" - or current limitations/difficulties - on the 'English from A to Z' website to inform redesign plans.
-
-[View 'Pain Points' Here](docs/painpoints.md)
-
 
 ## Competitor Comparison
 Offers a brief review of identified competitors' websites in order to better understand possibilities and common pitfalls of those in the industry.
 
 [View 'Competitor Comparison' Here](docs/competitors.md)
+
+
+## Pain Points
+Identifies "pain points" - or current limitations/difficulties - on the 'English from A to Z' website to inform redesign plans.
+
+[View 'Pain Points' Here](docs/painpoints.md)
 
 
 ## User Stories
